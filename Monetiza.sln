@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Monetiza", "Monetiza.csproj", "{6FAE04F0-5A77-44AE-8B75-FC49AA28C96A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6FAE04F0-5A77-44AE-8B75-FC49AA28C96A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAE04F0-5A77-44AE-8B75-FC49AA28C96A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAE04F0-5A77-44AE-8B75-FC49AA28C96A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAE04F0-5A77-44AE-8B75-FC49AA28C96A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C59EE31E-A132-48CD-9655-3700FBD7C8E1}
+	EndGlobalSection
+EndGlobal
